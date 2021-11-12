@@ -9,3 +9,9 @@
 ## Resources
 
 [CRAN Tasks](https://cran.r-project.org/web/views/)
+
+[RDocumentation](https://www.rdocumentation.org/)
+
+[LearnXinYminutes: R](https://learnxinyminutes.com/docs/r/)
+
+[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
